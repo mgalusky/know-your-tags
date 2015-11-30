@@ -1,0 +1,1 @@
+The purpose of the "images" folder is to hold all of the image files (.png, .jpg, etc) that you will later link to inside of your .html and .css files.

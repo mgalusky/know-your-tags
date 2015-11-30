@@ -1,0 +1,1 @@
+The purpose of the "js" folder is to store all of your JavaScript (.js) files that you will later link to inside of your .html files. Although you won't be using any JavaScript until later projects, it's beneficial to start understanding where it fits into a project's structure.
