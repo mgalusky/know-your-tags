@@ -1,0 +1,1 @@
+The purpose of the "assets" folder is to store all of your project's assets. This typically includes JavaScript, CSS and image files. It's good to keep these different types of files separate because as your project grows you will often find this organization very helpful.

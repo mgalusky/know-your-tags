@@ -1,0 +1,1 @@
+The purpose of the "css" folder is to store all of your .css files that you will later link to inside of your .html files.

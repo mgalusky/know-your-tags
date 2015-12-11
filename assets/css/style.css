@@ -1,0 +1,21 @@
+body{
+  /* Don't worry about these properties just yet, they will make more sense later! */
+  width:50%;
+  margin:auto;
+}
+
+.purple {
+  background-color: #322639;
+}
+
+.green {
+  color: #4B6751;
+}
+
+.cream {
+  color: #E1E1CE;
+}
+
+.black {
+  color: #000000;
+}
